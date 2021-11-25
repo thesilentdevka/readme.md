@@ -1,12 +1,10 @@
 <h2 align="center">👋 Hello! I'm Devakrishna.</h2>
 <p align="center">
-  <a href="https://blog.athulcyriac.in">Blog</a> •
-  <a href="https://twitter.com/athulcajay">Twitter</a>
+  <a href="https://devakrishnaprasobh.me/blog/blog">Blog</a>
 </p>
 
 
-- 🔭 I’m currently working on **A Platform for Hackathons in Kerala**
-- 🌱 I’m currently learning **Go and Algorithms**
-- 💬 Ask me about **Go, Git and Python**
-- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
-- ⚡ Fun fact: Big Fan of the :zap: emoji
+- 🔭 I’m currently working on **GETTING AN A+ FOR MY EXAMS OF THIS TERM**
+- 🌱 I’m currently learning **Python, Markdown and HTML**
+- 💬 Ask me about **ANYTHING**
+- 📫 How to reach me: [@thesilentninja](https://telegram.me/thesilentninja) on Telegram
