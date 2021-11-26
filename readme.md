@@ -5,6 +5,7 @@
 
 
 - 🔭 I’m currently working on **GETTING AN A+ FOR MY EXAMS OF THIS TERM**
+- 😎 I’m currently Interested in  **TELEGRAM BOTS**
 - 🌱 I’m currently learning **Python, Markdown and HTML**
 - 💬 Ask me about **ANYTHING**
 - 📫 How to reach me: [@thesilentninja](https://telegram.me/thesilentninja) on Telegram
