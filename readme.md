@@ -11,6 +11,6 @@
 - 📫 How to reach me: [@thesilentninja](https://telegram.me/thesilentninja) on Telegram, [@devakrishnaprasobh](https://www.instagram.com/devakrishnaprasobh/) on Instagram
 
 
-- **💸 If you can please donate to me for a new PC** <p align="bottom"><a href="https://python.org">
-  <img src="/donate-to-me.svg" alt="made-with-python">
+- **💸 If you can please donate to me for a new PC** <p align="bottom"><a href="https://upier.t-ps.net/pay/savithriprasobh@okaxis">
+  <img src="/donate-to-me.svg" alt="DONATE">
  </a>
