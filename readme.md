@@ -14,30 +14,33 @@
 - **💸 If you can please donate to me for a new PC** <p align="bottom"><a href="https://upier.t-ps.net/pay/savithriprasobh@okaxis">
   <img src="/donate-to-me.svg" alt="DONATE">
  </a>
-  <details>
-    <summary><b> 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 </b></summary>
-    <h2 align="center"><b>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜</b>
-      <br>
+  
+<h2 align="center"><b>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜
 <br>
-
+<br>
+  
+----
+![GitHub followers](https://img.shields.io/github/followers/thesilentdevka?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=thesilentdevka.thesilentdevka)
+[![Profile views](https://komarev.com/ghpvc/?username=thesilentdevka&label=Profile%20views)](https://github.com/thesilentdevka)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=thesilentdevka)
+  
+  
   <a href="https://github-readme-stats.vercel.app/api?username=thesilentdevka&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
     <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=thesilentdevka&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
     </a>
-</b></h2>  
-</details>
-    
-<details>
-  <summary><b>𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜</b></summary>
 
+    
+  <h2 align="center"><b>𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
+<br>
+<br>
+ 
  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=thesilentdevka&layout=compact&theme=midnight-purple&hide=Css">
     <img width="60%" align="center" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesilentdevka&layout=compact&theme=midnight-purple&hide=Css" />
 </a>
-</b></h2>  
-</details>
 
-<details>
-  <summary><b>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎</b></summary>
-<h2 align="center"><b>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎
+
+<h4 align="center"><b>𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙰𝚗𝚍 𝚃𝚘𝚘𝚕𝚜 𝙸 𝙻𝚘𝚟𝚎
   <br>
   <br>
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -61,5 +64,4 @@
   <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />  	
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</b></h2>
-</details>
+</b>
