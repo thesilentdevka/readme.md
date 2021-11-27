@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hello! I'm Devakrishna.</h2>
 <p align="center">
-  <a href="https://devakrishnaprasobh.me/blog/blog">Blog</a>
+  <a href="https://devakrishnaprasobh.me/blog/blog">Blog</a> • <a href="https://devakrishnaprasobh.me">Website</a>
 </p>
 
 
@@ -8,4 +8,4 @@
 - 😎 I’m currently Interested in  **TELEGRAM BOTS**
 - 🌱 I’m currently learning **Python, Markdown and HTML**
 - 💬 Ask me about **ANYTHING**
-- 📫 How to reach me: [@thesilentninja](https://telegram.me/thesilentninja) on Telegram
+- 📫 How to reach me: [@thesilentninja](https://telegram.me/thesilentninja) on Telegram, [@devakrishnaprasobh](https://www.instagram.com/devakrishnaprasobh/) on Instagram
