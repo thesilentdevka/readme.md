@@ -29,6 +29,12 @@
   <a href="https://github-readme-stats.vercel.app/api?username=thesilentdevka&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
     <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=thesilentdevka&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
     </a>
+  <h2 align="center"><b>My Github Streak
+  <br>
+  <br>
+  
+  ![Streak Stats](http://github-readme-streak-stats.herokuapp.com?user=thesilentdevka&theme=nord&hide_border=true&date_format=j%20M%5B%20Y%5D)
+ 
 
     
   <h2 align="center"><b>𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
